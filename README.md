@@ -1,6 +1,7 @@
 # devops-netology
-test commit
 
+
+<img width="1573" height="654" alt="Снимок экрана 2025-10-28 183839" src="https://github.com/user-attachments/assets/0fe19979-0295-41d1-8b09-083f8fb54426" />
 <img width="879" height="583" alt="Снимок экрана 2025-10-27 165128" src="https://github.com/user-attachments/assets/7f38513b-0ec5-4b17-9c2a-162e4e338dfc" />
 <img width="855" height="262" alt="Снимок экрана 2025-10-27 165048" src="https://github.com/user-attachments/assets/454f2a7b-1f78-452c-99e2-d741dca10494" />
 <img width="932" height="761" alt="Снимок экрана 2025-10-27 163831" src="https://github.com/user-attachments/assets/8e7dd668-6c55-442d-ad3c-119738245224" />
