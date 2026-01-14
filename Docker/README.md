@@ -22,5 +22,14 @@
 Nginx внутри контейнера теперь слушает порт 81, но Docker по-прежнему пробрасывает порт 8080 хоста на порт 80 контейнера (как было указано при запуске -p 127.0.0.1:8080:80). Поскольку nginx больше не слушает порт 80 в контейнере, соединение не может быть установлено.
 
 ### Задание 4
+В этом задании было требование создать контейнер с образом Centos - но официальный образ я не смог стянуть с библиотки и в итоге вместо него стянул образ Убунту.
+<img width="1011" height="121" alt="Снимок экрана 2026-01-14 165023" src="https://github.com/user-attachments/assets/fd1fac56-ddd7-4b75-bae8-a009575ff78e" />
+<img width="994" height="412" alt="Снимок экрана 2026-01-14 165044" src="https://github.com/user-attachments/assets/23ee0e77-6234-40fd-900d-2538897ec5fa" />
+<img width="1000" height="211" alt="Снимок экрана 2026-01-14 165102" src="https://github.com/user-attachments/assets/387b1267-7e28-4104-86fe-ce7a37bb7afb" />
+<img width="600" height="336" alt="Снимок экрана 2026-01-14 165112" src="https://github.com/user-attachments/assets/d6f965c1-45ca-4520-a6d3-e11b4391ad83" />
+<img width="488" height="285" alt="Снимок экрана 2026-01-14 165121" src="https://github.com/user-attachments/assets/fc9ae399-4231-4db6-b367-7bffe1114941" />
+
+
 
 ### Задание 5
+
