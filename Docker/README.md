@@ -29,7 +29,24 @@ Nginx внутри контейнера теперь слушает порт 81,
 <img width="600" height="336" alt="Снимок экрана 2026-01-14 165112" src="https://github.com/user-attachments/assets/d6f965c1-45ca-4520-a6d3-e11b4391ad83" />
 <img width="488" height="285" alt="Снимок экрана 2026-01-14 165121" src="https://github.com/user-attachments/assets/fc9ae399-4231-4db6-b367-7bffe1114941" />
 
-
-
 ### Задание 5
+<img width="1125" height="467" alt="Снимок экрана 2026-01-14 174048" src="https://github.com/user-attachments/assets/937b5a98-0483-41a1-947b-62286e60f45a" />
+<img width="524" height="288" alt="Снимок экрана 2026-01-14 174053" src="https://github.com/user-attachments/assets/acd7f9ef-bdc2-4f83-9d5b-b64fb5dbc5c8" />
+<img width="1122" height="131" alt="Снимок экрана 2026-01-14 174223" src="https://github.com/user-attachments/assets/6b75f805-66e4-493c-b33b-2cff9e6e73d2" />
+<img width="652" height="158" alt="Снимок экрана 2026-01-14 175808" src="https://github.com/user-attachments/assets/f50565bc-4734-4762-b818-e9a3f128e170" />
+<img width="807" height="279" alt="Снимок экрана 2026-01-14 175824" src="https://github.com/user-attachments/assets/f39b5c88-ae75-4e46-a331-fc7d5b5a588c" />
+<img width="1576" height="223" alt="Снимок экрана 2026-01-14 180502" src="https://github.com/user-attachments/assets/67a9b615-853d-45a5-acf7-d12c9239f0b9" />
+<img width="1000" height="880" alt="Снимок экрана 2026-01-14 175630" src="https://github.com/user-attachments/assets/f407f9da-d3ac-417e-b826-824f2470c51f" />
+<img width="866" height="474" alt="Снимок экрана 2026-01-14 175642" src="https://github.com/user-attachments/assets/a1a39312-3fd6-4ee9-90b3-0f87b0299a0d" />
+
+version is obsolete - атрибут version устарел в новых версиях Docker Compose
+
+No services to build - нет сервисов для сборки (только registry, который берется готовым)
+
+Found orphan containers - есть "осиротевшие" контейнеры (portainer остался от предыдущего запуска - он также остаётся рабочим после удаления манифеста)
+после выполнения требуемой команды portainer падает соответственно.
+
+<img width="1127" height="459" alt="Снимок экрана 2026-01-14 180907" src="https://github.com/user-attachments/assets/894977e8-6dce-4e6e-a600-f921f7b385a3" />
+
+
 
